@@ -1,1 +1,1 @@
-# lhd_2018
+# Local Hack Day Spb
