@@ -1,1 +1,1 @@
-# Local Hack Day Spb
+# Local Hack Day Spb (WIP)
